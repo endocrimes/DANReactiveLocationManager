@@ -2,7 +2,7 @@
 //  CLLocation+RLMAdditions.m
 //  NCTX
 //
-//  Created by  Danielle Lancashireon 09/04/2014.
+//  Created by Danielle Lancashire on 09/04/2014.
 //
 //  Copyright (c) 2014 WeAreBase.
 //
